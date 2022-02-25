@@ -7,13 +7,13 @@
   * Multivariate Linear Regression on automobile dataset with splitting data to train/test
   * Multivariate Linear Regression with L1/L2 Regularization
 
-* More On Regression Models
+* More On Regression Models Folder
   * Decision Tree Regression
   * Random Forest Regression
   * KFold Cross Validation
   * Grid Search
 
- * Classification Models:
+* Classification Models Folder
   * Decision Tree & Random Forest Classification
   * Logistic Regression
   * K-NearestNeighbor Classifier (KNN)
