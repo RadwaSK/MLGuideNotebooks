@@ -19,3 +19,7 @@
   * K-NearestNeighbor Classifier (KNN)
   * SVM
   
+* More Classification Models Folder
+  * Decision Tree & Random Forest Classfier
+  * XGBoost Classifier
+  * Naive Bayes Classifier
