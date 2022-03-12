@@ -23,3 +23,7 @@
   * Decision Tree & Random Forest Classfier
   * XGBoost Classifier
   * Naive Bayes Classifier
+
+* E2E Projects on Regression & Classification
+  * Regression E2E Notebook using Airline Ticket Price Dataset
+  * Classification E2E Notebook using Titanic Dataset
